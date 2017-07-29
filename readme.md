@@ -538,6 +538,7 @@
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Programming something expressive instead of something functional.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web apps that work without login.
 - [Testing](https://github.com/TheJambo/awesome-testing) - Software testing.
+- [Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Visual Regression Testing.
 - [Free Software](https://github.com/johnjago/awesome-free-software) - Free as in freedom.
 - [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
